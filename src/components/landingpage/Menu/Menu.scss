@@ -1,0 +1,18 @@
+@import "../../../Sass/Index.scss";
+.menu {
+    display: flex;
+    justify-content: end;
+    
+    max-width: $max-width;
+    margin: auto;
+  ul {
+    margin-top: 30px;
+    margin-right: 30px;
+    display: flex;
+    gap: 20px;
+    li {
+      list-style: none;
+      font-weight: bold;
+    }
+  }
+}
