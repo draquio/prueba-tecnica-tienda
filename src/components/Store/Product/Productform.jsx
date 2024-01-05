@@ -1,4 +1,4 @@
-import { SearchProduct } from "./searchProduct";
+import { SearchProduct } from "./SearchProduct";
 
 const Productform = (props) => {
   const { products, handleChangeQuantity, index, query, selectProduct, activeInput, removeInput, input, setQuery, setActiveInput} = props;
