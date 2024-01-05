@@ -1,5 +1,6 @@
 
-import {router as WebRouter} from "./router/router"
+// import {router as WebRouter} from "./router/router"
+import {WebRouter} from "./router/WebRouter"
 import './App.css'
 import { BrowserRouter } from 'react-router-dom'
 
