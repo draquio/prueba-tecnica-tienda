@@ -1,8 +1,12 @@
-# React + Vite
+# Prueba Técnica de Sergio Mercado
+Esta es una web realizada para una prueba técnica sobre habilidades de Frontend con React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Instalación
+1. Clona el respositorio con `git clone https://github.com/draquio/prueba-tecnica-tienda.git`
+2. Instala las dependencias con `npm install`
+3. Levanta el proyecto con `npm run dev`
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Dependencias
+- react-scroll
+- react-router-dom
+- sass
