@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Asus Zenfone 8 Modelo 1",
+        "price": 674.4
+    },
+    {
+        "id": 2,
+        "name": "Oppo Find X2 Modelo 2",
+        "price": 1355.16
+    },
+    {
+        "id": 3,
+        "name": "Galaxy S21 Modelo 3",
+        "price": 529.71
+    },
+    {
+        "id": 4,
+        "name": "LG Velvet Modelo 4",
+        "price": 439.93
+    },
+    {
+        "id": 5,
+        "name": "OnePlus 8 Modelo 5",
+        "price": 1363.13
+    },
+    {
+        "id": 6,
+        "name": "Xiaomi Mi 11 Modelo 6",
+        "price": 483.32
+    },
+    {
+        "id": 7,
+        "name": "LG Velvet Modelo 7",
+        "price": 387.35
+    },
+    {
+        "id": 8,
+        "name": "Oppo Find X2 Modelo 8",
+        "price": 353.09
+    },
+    {
+        "id": 9,
+        "name": "Realme GT Modelo 9",
+        "price": 525.19
+    },
+    {
+        "id": 10,
+        "name": "Asus Zenfone 8 Modelo 10",
+        "price": 1491.81
+    },
+    {
+        "id": 11,
+        "name": "Vivo X60 Modelo 11",
+        "price": 1033.15
+    },
+    {
+        "id": 12,
+        "name": "Pixel 5 Modelo 12",
+        "price": 500.16
+    },
+    {
+        "id": 13,
+        "name": "LG Velvet Modelo 13",
+        "price": 930.6
+    },
+    {
+        "id": 14,
+        "name": "TCL 10L Modelo 14",
+        "price": 549.3
+    },
+    {
+        "id": 15,
+        "name": "iPhone 12 Modelo 15",
+        "price": 761.57
+    },
+    {
+        "id": 16,
+        "name": "OnePlus 8 Modelo 16",
+        "price": 564.96
+    },
+    {
+        "id": 17,
+        "name": "Sony Xperia 1 Modelo 17",
+        "price": 1315.4
+    },
+    {
+        "id": 18,
+        "name": "Realme GT Modelo 18",
+        "price": 453.9
+    },
+    {
+        "id": 19,
+        "name": "Alcatel 3L Modelo 19",
+        "price": 1040.01
+    },
+    {
+        "id": 20,
+        "name": "Nokia 7.2 Modelo 20",
+        "price": 1085.32
+    },
+    {
+        "id": 21,
+        "name": "Huawei P40 Modelo 21",
+        "price": 349.25
+    },
+    {
+        "id": 22,
+        "name": "Motorola Edge Modelo 22",
+        "price": 1286.51
+    },
+    {
+        "id": 23,
+        "name": "ZTE Axon 30 Modelo 23",
+        "price": 1143.27
+    },
+    {
+        "id": 24,
+        "name": "Oppo Find X2 Modelo 24",
+        "price": 890.64
+    },
+    {
+        "id": 25,
+        "name": "OnePlus 8 Modelo 25",
+        "price": 851.17
+    },
+    {
+        "id": 26,
+        "name": "Lenovo Legion Modelo 26",
+        "price": 1088.12
+    },
+    {
+        "id": 27,
+        "name": "Motorola Edge Modelo 27",
+        "price": 858.47
+    },
+    {
+        "id": 28,
+        "name": "Oppo Find X2 Modelo 28",
+        "price": 1462.89
+    },
+    {
+        "id": 29,
+        "name": "Alcatel 3L Modelo 29",
+        "price": 372.53
+    },
+    {
+        "id": 30,
+        "name": "Sony Xperia 1 Modelo 30",
+        "price": 1023.41
+    },
+    {
+        "id": 31,
+        "name": "Lenovo Legion Modelo 31",
+        "price": 739.26
+    },
+    {
+        "id": 32,
+        "name": "Asus Zenfone 8 Modelo 32",
+        "price": 504.4
+    },
+    {
+        "id": 33,
+        "name": "Vivo X60 Modelo 33",
+        "price": 607.55
+    },
+    {
+        "id": 34,
+        "name": "Galaxy S21 Modelo 34",
+        "price": 1309.7
+    },
+    {
+        "id": 35,
+        "name": "Huawei P40 Modelo 35",
+        "price": 1178.68
+    },
+    {
+        "id": 36,
+        "name": "Huawei P40 Modelo 36",
+        "price": 1017.29
+    },
+    {
+        "id": 37,
+        "name": "Vivo X60 Modelo 37",
+        "price": 1242.65
+    },
+    {
+        "id": 38,
+        "name": "HTC U12+ Modelo 38",
+        "price": 902.93
+    },
+    {
+        "id": 39,
+        "name": "HTC U12+ Modelo 39",
+        "price": 1358.4
+    },
+    {
+        "id": 40,
+        "name": "Huawei P40 Modelo 40",
+        "price": 677.32
+    },
+    {
+        "id": 41,
+        "name": "TCL 10L Modelo 41",
+        "price": 389.15
+    },
+    {
+        "id": 42,
+        "name": "Alcatel 3L Modelo 42",
+        "price": 442.83
+    },
+    {
+        "id": 43,
+        "name": "Oppo Find X2 Modelo 43",
+        "price": 885.29
+    },
+    {
+        "id": 44,
+        "name": "LG Velvet Modelo 44",
+        "price": 492.03
+    },
+    {
+        "id": 45,
+        "name": "LG Velvet Modelo 45",
+        "price": 903.72
+    },
+    {
+        "id": 46,
+        "name": "Xiaomi Mi 11 Modelo 46",
+        "price": 1291.57
+    },
+    {
+        "id": 47,
+        "name": "ZTE Axon 30 Modelo 47",
+        "price": 837.61
+    },
+    {
+        "id": 48,
+        "name": "Alcatel 3L Modelo 48",
+        "price": 1444.95
+    },
+    {
+        "id": 49,
+        "name": "TCL 10L Modelo 49",
+        "price": 780.37
+    },
+    {
+        "id": 50,
+        "name": "Alcatel 3L Modelo 50",
+        "price": 1247.25
+    },
+    {
+        "id": 51,
+        "name": "Nokia 7.2 Modelo 51",
+        "price": 405.14
+    },
+    {
+        "id": 52,
+        "name": "Blackberry Key2 Modelo 52",
+        "price": 955.14
+    },
+    {
+        "id": 53,
+        "name": "TCL 10L Modelo 53",
+        "price": 723.87
+    },
+    {
+        "id": 54,
+        "name": "Asus Zenfone 8 Modelo 54",
+        "price": 653.51
+    },
+    {
+        "id": 55,
+        "name": "OnePlus 8 Modelo 55",
+        "price": 576.56
+    },
+    {
+        "id": 56,
+        "name": "Lenovo Legion Modelo 56",
+        "price": 566.52
+    },
+    {
+        "id": 57,
+        "name": "Xiaomi Mi 11 Modelo 57",
+        "price": 568.36
+    },
+    {
+        "id": 58,
+        "name": "Blackberry Key2 Modelo 58",
+        "price": 374.33
+    },
+    {
+        "id": 59,
+        "name": "TCL 10L Modelo 59",
+        "price": 1377.65
+    },
+    {
+        "id": 60,
+        "name": "ZTE Axon 30 Modelo 60",
+        "price": 1067.46
+    },
+    {
+        "id": 61,
+        "name": "Blackberry Key2 Modelo 61",
+        "price": 329.9
+    },
+    {
+        "id": 62,
+        "name": "Vivo X60 Modelo 62",
+        "price": 813.73
+    },
+    {
+        "id": 63,
+        "name": "Realme GT Modelo 63",
+        "price": 1483.96
+    },
+    {
+        "id": 64,
+        "name": "Huawei P40 Modelo 64",
+        "price": 1496.65
+    },
+    {
+        "id": 65,
+        "name": "iPhone 12 Modelo 65",
+        "price": 1194.21
+    },
+    {
+        "id": 66,
+        "name": "Lenovo Legion Modelo 66",
+        "price": 1089.02
+    },
+    {
+        "id": 67,
+        "name": "Oppo Find X2 Modelo 67",
+        "price": 1166.04
+    },
+    {
+        "id": 68,
+        "name": "TCL 10L Modelo 68",
+        "price": 1219.24
+    },
+    {
+        "id": 69,
+        "name": "Huawei P40 Modelo 69",
+        "price": 367.06
+    },
+    {
+        "id": 70,
+        "name": "Oppo Find X2 Modelo 70",
+        "price": 999.27
+    },
+    {
+        "id": 71,
+        "name": "Oppo Find X2 Modelo 71",
+        "price": 604.32
+    },
+    {
+        "id": 72,
+        "name": "HTC U12+ Modelo 72",
+        "price": 1453.37
+    },
+    {
+        "id": 73,
+        "name": "Nokia 7.2 Modelo 73",
+        "price": 1352.93
+    },
+    {
+        "id": 74,
+        "name": "HTC U12+ Modelo 74",
+        "price": 970.34
+    },
+    {
+        "id": 75,
+        "name": "Galaxy S21 Modelo 75",
+        "price": 1252.17
+    },
+    {
+        "id": 76,
+        "name": "Huawei P40 Modelo 76",
+        "price": 662.23
+    },
+    {
+        "id": 77,
+        "name": "iPhone 12 Modelo 77",
+        "price": 1129.76
+    },
+    {
+        "id": 78,
+        "name": "iPhone 12 Modelo 78",
+        "price": 427.19
+    },
+    {
+        "id": 79,
+        "name": "LG Velvet Modelo 79",
+        "price": 1194.31
+    },
+    {
+        "id": 80,
+        "name": "Sony Xperia 1 Modelo 80",
+        "price": 556.94
+    },
+    {
+        "id": 81,
+        "name": "LG Velvet Modelo 81",
+        "price": 627.22
+    },
+    {
+        "id": 82,
+        "name": "Sony Xperia 1 Modelo 82",
+        "price": 302.03
+    },
+    {
+        "id": 83,
+        "name": "Oppo Find X2 Modelo 83",
+        "price": 1423.21
+    },
+    {
+        "id": 84,
+        "name": "Huawei P40 Modelo 84",
+        "price": 1246.98
+    },
+    {
+        "id": 85,
+        "name": "Realme GT Modelo 85",
+        "price": 402.5
+    },
+    {
+        "id": 86,
+        "name": "Realme GT Modelo 86",
+        "price": 658.34
+    },
+    {
+        "id": 87,
+        "name": "Alcatel 3L Modelo 87",
+        "price": 1051.21
+    },
+    {
+        "id": 88,
+        "name": "Oppo Find X2 Modelo 88",
+        "price": 489.19
+    },
+    {
+        "id": 89,
+        "name": "Oppo Find X2 Modelo 89",
+        "price": 630.41
+    },
+    {
+        "id": 90,
+        "name": "Huawei P40 Modelo 90",
+        "price": 1000.54
+    },
+    {
+        "id": 91,
+        "name": "Realme GT Modelo 91",
+        "price": 1335.13
+    },
+    {
+        "id": 92,
+        "name": "HTC U12+ Modelo 92",
+        "price": 846.19
+    },
+    {
+        "id": 93,
+        "name": "Sony Xperia 1 Modelo 93",
+        "price": 1076.51
+    },
+    {
+        "id": 94,
+        "name": "Nokia 7.2 Modelo 94",
+        "price": 1124.48
+    },
+    {
+        "id": 95,
+        "name": "HTC U12+ Modelo 95",
+        "price": 557.55
+    },
+    {
+        "id": 96,
+        "name": "TCL 10L Modelo 96",
+        "price": 466.67
+    },
+    {
+        "id": 97,
+        "name": "HTC U12+ Modelo 97",
+        "price": 1411.07
+    },
+    {
+        "id": 98,
+        "name": "Galaxy S21 Modelo 98",
+        "price": 711.41
+    },
+    {
+        "id": 99,
+        "name": "Blackberry Key2 Modelo 99",
+        "price": 894.34
+    },
+    {
+        "id": 100,
+        "name": "Lenovo Legion Modelo 100",
+        "price": 390.65
+    }
+]

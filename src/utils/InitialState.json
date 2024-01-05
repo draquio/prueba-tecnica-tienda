@@ -1,0 +1,40 @@
+[{
+    "client": {
+        "id": 722,
+        "RUT": "253-26-6998",
+        "nombre": "Joseph",
+        "apellidos": "Miller",
+        "email": "deborahmiller@wilson.org",
+        "fechaNacimiento": "1996-12-28"
+    },
+    "country": {
+        "id": 2,
+        "nombre": "Bolivia",
+        "moneda": "BOB"
+    },
+    "products": [
+        {
+            "id": 1,
+            "name": "Asus Zenfone 8 Modelo 1",
+            "price": 674,
+            "quantity": 1,
+            "subtotal": 674
+        },
+        {
+            "id": 3,
+            "name": "Galaxy S21 Modelo 3",
+            "price": 530,
+            "quantity": "2",
+            "subtotal": 1060
+        },
+        {
+            "id": 4,
+            "name": "LG Velvet Modelo 4",
+            "price": 440,
+            "quantity": "3",
+            "subtotal": 1320
+        }
+    ],
+    "id": "703c44af-dc22-46ba-83b9-42e65f91886c",
+    "total": 3054
+}]

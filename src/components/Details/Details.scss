@@ -1,0 +1,46 @@
+@import "../../Sass/Index.scss";
+.details {
+  width: 100%;
+  max-width: $max-width;
+  margin: auto;
+  padding: 20px;
+  box-sizing: border-box;
+  min-height:1000px;
+  margin-top: $padding-top-bottom;
+  p {
+    max-width: 350px;
+    font-size: 14px;
+    opacity: 0.7;
+    margin: 5px 0 30px 0;
+  }
+  .details_table {
+    .details_labels {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr) 2fr 0.5fr;
+      grid-template-rows: 1fr;
+      grid-column-gap: 10px;
+      grid-row-gap: 0px;
+      label {
+        font-weight: bold;
+      }
+    }
+    .saleitem {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr) 2fr 0.5fr;
+      grid-template-rows: 1fr;
+      grid-column-gap: 0px;
+      grid-row-gap: 0px;
+      box-sizing: border-box;
+      span {
+        background-color: #f6f7f9;
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        &:nth-child(1) {
+          padding: 0 10px;
+        }
+      }
+    }
+  }
+}

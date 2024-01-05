@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Argentina",
+        "moneda": "ARS"
+    },
+    {
+        "id": 2,
+        "nombre": "Bolivia",
+        "moneda": "BOB"
+    },
+    {
+        "id": 3,
+        "nombre": "Brasil",
+        "moneda": "BRL"
+    },
+    {
+        "id": 4,
+        "nombre": "Chile",
+        "moneda": "CLP"
+    },
+    {
+        "id": 5,
+        "nombre": "Colombia",
+        "moneda": "COP"
+    },
+    {
+        "id": 6,
+        "nombre": "Ecuador",
+        "moneda": "USD"
+    },
+    {
+        "id": 7,
+        "nombre": "México",
+        "moneda": "MXN"
+    },
+    {
+        "id": 8,
+        "nombre": "Perú",
+        "moneda": "PEN"
+    },
+    {
+        "id": 9,
+        "nombre": "Uruguay",
+        "moneda": "UYU"
+    },
+    {
+        "id": 10,
+        "nombre": "Venezuela",
+        "moneda": "VES"
+    }
+]

@@ -1,11 +1,9 @@
 .main{
     width: 100%;
-    // max-width: 1200px;
     margin: auto;
     position: relative;
     .container{
         display: flex;
         flex-direction: column;
-        gap: 80px;
     }
 }

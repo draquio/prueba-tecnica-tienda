@@ -1,22 +1,80 @@
 $main_color: #279aff;
 $main_color_hover: #279affb3;
 $text_ligth: white;
+$text_dark: rgb(37, 37, 37);
 $max-width: 1200px;
+$margin-top-bottom: 100px;
+$padding-top-bottom: 100px;
 
-
-.btn{
-    padding: 10px 20px;
-    border: 0;
-    font-size: 16px;
-    color: $text_ligth;
-    max-width: 120px;
-    cursor: pointer;
+.btn {
+  padding: 10px 20px;
+  border: 0;
+  font-size: 16px;
+  color: $text_ligth;
+  max-width: 120px;
+  cursor: pointer;
 }
 
-.blue_btn{
+.blue_btn {
+  background-color: $main_color;
+  transition: 0.3s ease all;
+  &:hover {
+    background-color: $main_color_hover;
+  }
+}
+
+.blue_btn_inverted {
+  background-color: none;
+  outline: 2px solid $main_color;
+  color: $main_color;
+  transition: 0.3s ease all;
+  &:hover {
     background-color: $main_color;
-    transition: 0.3s ease all;
-    &:hover{
-        background-color: $main_color_hover;
-    }
+    color: $text_ligth;
+  }
+}
+
+.add_item_button {
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+input {
+  margin-top: 10px;
+  height: 40px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 0;
+  &:focus-visible {
+    outline: none;
+  }
+  &:disabled {
+    background-color: white;
+  }
+}
+
+.results {
+  position: absolute;
+  background-color: white;
+  position: absolute;
+  top: 70px;
+  width: 100%;
+  padding: 10px;
+  max-height: 100px;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  cursor: pointer;
+  ul li.active {
+    background-color: $main_color;
+    color: $text_ligth;
+  }
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 900;
 }

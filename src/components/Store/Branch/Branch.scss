@@ -1,0 +1,40 @@
+@import "../../../Sass/Index.scss";
+.branch {
+  label {
+    display: flex;
+    gap: 5px;
+    span {
+    display: flex;
+    align-items: center;
+    .icon {
+      font-size: 20px;
+      color: $main_color;
+      cursor: pointer;
+    }
+  }
+}
+  .branch_form {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 0.2fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
+    .results{
+        position: absolute;
+        background-color: white;
+        position: absolute;
+        top: 70px;
+        width: 100%;
+        padding: 10px;
+        max-height: 100px;
+        box-sizing: border-box;
+        overflow-y: scroll;
+        cursor: pointer;
+        ul li.active{
+            background-color: $main_color;
+            color: $text_ligth;
+        }
+      }
+  }
+}

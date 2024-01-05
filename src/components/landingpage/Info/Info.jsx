@@ -1,7 +1,7 @@
 import "./Info.scss";
 export const Info = () => {
   return (
-    <div className="info_section">
+    <div className="info_section" id="info">
       <h2>Information</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident,
