@@ -76,6 +76,7 @@ input {
   box-sizing: border-box;
   overflow-y: scroll;
   cursor: pointer;
+  z-index: 2;
   ul li.active {
     background-color: $main_color;
     color: $text_ligth;
