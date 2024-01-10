@@ -10,7 +10,7 @@ export const Menu = () => {
           </Link>
         </li>
         <li>
-          <Link to="best" spy={true} smooth={true} offset={50} duration={500}>
+          <Link to="best" spy={true} smooth={true} offset={0} duration={500}>
             Best
           </Link>
         </li>

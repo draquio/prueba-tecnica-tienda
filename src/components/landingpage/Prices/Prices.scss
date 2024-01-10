@@ -99,3 +99,37 @@
     }
   }
 }
+
+@media (max-width: $responsive_big) {
+  .price_container .prices_section {
+    width: $width_responsive;
+    padding: $padding_container;
+    margin: 0 0 0 60px;
+    box-sizing: border-box;
+  }
+}
+@media (max-width: $responsive_medium) {
+  .price_container .prices_section {
+    &_prices{
+      flex-direction: column;
+      &_item{
+        width: 100%;
+        &.main_item{
+          transform: scale(1);
+          &:hover{
+            transform: scale(1.02);
+          }
+        }
+        ul{
+          text-align: center;
+        }
+        
+      }
+    }
+  }
+}
+@media (max-width:$responsive_small){
+  .price_container .prices_section_prices_item ul{
+    text-align: start;
+  }
+}

@@ -11,7 +11,7 @@ const MenuSidebar = () => {
             to="home"
             spy={true}
             smooth={true}
-            offset={-100}
+            offset={-60}
             duration={500}
           >
             <HomeIcon />
@@ -23,7 +23,7 @@ const MenuSidebar = () => {
             to="info"
             spy={true}
             smooth={true}
-            offset={-100}
+            offset={-50}
             duration={500}
           >
             <TrophyIcon />
@@ -35,7 +35,7 @@ const MenuSidebar = () => {
             to="best"
             spy={true}
             smooth={true}
-            offset={50}
+            offset={0}
             duration={500}
           >
             <BestIcon />
@@ -47,7 +47,7 @@ const MenuSidebar = () => {
             to="dashboard"
             spy={true}
             smooth={true}
-            offset={40}
+            offset={0}
             duration={500}
           >
             <StoreIcon />

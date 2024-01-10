@@ -5,7 +5,6 @@ const Alert = (props) => {
     <span onClick={() => setErrorMessage("")}>
       <label>
         <input type="checkbox" className="alertCheckbox" autoComplete="off" />
-        {/* <div className="alert error"> */}
         <div className={`alert ${type}`}>
           <span className="alertClose">X</span>
           <span className="alertText">

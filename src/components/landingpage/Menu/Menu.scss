@@ -22,3 +22,9 @@
     }
   }
 }
+
+@media (max-width:$responsive_small){
+  .menu{
+    visibility: hidden;
+  }
+}

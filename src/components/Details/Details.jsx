@@ -28,19 +28,18 @@ export const Details = () => {
           <div key={sale.id} className="saleitem">
             <span>{sale.client.nombre + " " + sale.client.apellidos}</span>
             <span>{sale.total + " " + sale.country.moneda}</span>
-            <span>
+            <span className="saleitem_name">
               {sale.products.map((product, index) => (
                 <div key={index} className="saleitem_product">
-                  <span className="saleitem_product">{product.name} ({product.quantity})</span>
+
+                  {product.name} ({product.quantity})
                 </div>
               ))}
             </span>
             <span>
               {sale.products.map((product, index) => (
                 <div key={index} className="saleitem_product">
-                  <span className="saleitem_product">
-                    {product.subtotal} {sale.country.moneda}{" "}
-                  </span>
+                    $ {product.subtotal}
                 </div>
               ))}
             </span>

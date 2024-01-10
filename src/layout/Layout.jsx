@@ -1,3 +1,4 @@
+import Footer from "../components/footer/Footer";
 import { Menu } from "../components/landingpage/Menu/Menu";
 import "./Layout.scss";
 export function Layout(props) {
@@ -6,7 +7,7 @@ export function Layout(props) {
     <div className="main">
       <header><Menu /> </header>
       <div className="container">{children}</div>
-      <footer>footer</footer>
+      <footer className="footer"><Footer/></footer>
     </div>
   );
 }

@@ -9,7 +9,7 @@ import Alert from "../../complements/Alert/Alert";
 import Total from "./Total";
 import Productform from "./Productform";
 const Product = (props) => {
-  const {products, setProducts, quantityInputs, setQuantityInputs} = props;
+  const { products, setProducts, quantityInputs, setQuantityInputs } = props;
   const [query, setQuery] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
   const [activeInput, setActiveInput] = useState(null);
@@ -65,9 +65,11 @@ const Product = (props) => {
       <form>
         <div className="product_label">
           <label htmlFor="product">Product:</label>
-          <label htmlFor="quantity">Quantity:</label>
-          <label htmlFor="price">Price:</label>
-          <label htmlFor="subtotal">Subtotal:</label>
+          <div className="product_label_group">
+            <label htmlFor="quantity">Quantity:</label>
+            <label htmlFor="price">Price:</label>
+            <label htmlFor="subtotal">Subtotal:</label>
+          </div>
         </div>
         {quantityInputs.map((input, index) => (
           <Productform
@@ -96,7 +98,15 @@ const Product = (props) => {
         </button>
         <Total products={products} />
       </div>
-      {errorMessage.length !== 0 ? <Alert errorMessage={errorMessage} setErrorMessage={setErrorMessage}  type={"error"}/> : ""}
+      {errorMessage.length !== 0 ? (
+        <Alert
+          errorMessage={errorMessage}
+          setErrorMessage={setErrorMessage}
+          type={"error"}
+        />
+      ) : (
+        ""
+      )}
     </div>
   );
 };
