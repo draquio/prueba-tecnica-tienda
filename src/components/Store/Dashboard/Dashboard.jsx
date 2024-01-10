@@ -66,7 +66,7 @@ export const Dashboard = () => {
         )}
         <div className="save_section">
           <button className="btn blue_btn" onClick={Save}>
-            Guardar
+            Save
           </button>
         </div>
       </div>
