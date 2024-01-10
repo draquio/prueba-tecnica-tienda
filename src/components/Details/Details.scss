@@ -5,12 +5,11 @@
   margin: auto;
   padding: 20px;
   box-sizing: border-box;
-  // min-height:1000px;
   margin-bottom: $padding-top-bottom;
   min-height: 800px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   p {
     max-width: 350px;
     font-size: 14px;
